@@ -1,0 +1,12 @@
+{
+  "slimalizer_ping": {
+    "category": "player",
+    "subtitle": "slimalizer_ping",
+    "sounds": [
+      {
+        "name": "slimalizer:slimalizer_ping",
+        "stream": true
+      }
+    ]
+  }
+}

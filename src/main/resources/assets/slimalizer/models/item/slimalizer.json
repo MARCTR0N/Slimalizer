@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "slimalizer:items/slimeoff"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "slimalizer:on": 0.75
+      },
+      "model": "slimalizer:item/slimalizer_on"
+    }
+  ]
+}
