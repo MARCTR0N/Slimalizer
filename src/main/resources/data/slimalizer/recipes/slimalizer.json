@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+         "igi",
+         "isi",
+         "iri"
+    ],
+    "key":
+    {
+        "r":
+        {
+            "tag": "forge:dusts/redstone"
+        },
+        "s":
+        {
+            "tag": "forge:slimeballs"
+        },
+        "g":
+        {
+            "tag": "forge:glass_panes"
+        },
+        "i":
+        {
+            "tag": "forge:ingots/iron"
+        }
+    },
+    "result":
+    {
+        "item": "slimalizer:slimalizer",
+        "count": 1
+    }
+}
